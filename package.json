@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nativefier": "^7.6.12"
+    "nativefier": "^50.0.0"
   }
 }
